@@ -4,7 +4,7 @@
   "version": "0.1.1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
-    "spdx-expression-parse": "^1.0.2"
+    "spdx-expression-parse": "^3.0.0"
   },
   "files": [
     "index.json"
