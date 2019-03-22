@@ -6,6 +6,12 @@
   "devDependencies": {
     "spdx-expression-parse": "^3.0.0"
   },
+  "keywords": [
+    "SPDX",
+    "licenses",
+    "open source",
+    "copyleft"
+  ],
   "files": [
     "index.json"
   ],
